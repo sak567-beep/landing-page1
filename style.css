@@ -101,7 +101,7 @@ opacity: .6;
    background-size:cover;
    background-position: right;
 }
-@media(max-width:500px){
+@media(max-width:600px){
   #main{
     flex-direction: column;
   }
