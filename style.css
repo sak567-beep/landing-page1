@@ -108,6 +108,9 @@ opacity: .6;
   #main #left{
     width:100%;
   }
+  #left h1{
+    font-size:60px;
+  }
   #main #right{
     width:100%;
   }
